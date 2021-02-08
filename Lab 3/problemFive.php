@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Problem Four</h1>
+<h1>Problem Five</h1>
 
 <?php
 $backColor="green"; $fontColor="red"; $imageWidth="80px"; $imageHeight="80px";
